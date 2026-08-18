@@ -1,0 +1,49 @@
+name: Codex Watch
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        working-directory: codex-watch-telegram
+        run: pip install -r requirements.txt
+
+      - name: Run Codex Watch
+        working-directory: codex-watch-telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python monitor.py
+
+      - name: Save monitor state
+        run: |
+          git config user.name "codex-watch-bot"
+          git config user.email "codex-watch-bot@users.noreply.github.com"
+          git add codex-watch-telegram/state.json
+
+          if git diff --cached --quiet; then
+            echo "No state changes"
+            exit 0
+          fi
+
+          git commit -m "chore: update Codex Watch state [skip ci]"
+          git push
