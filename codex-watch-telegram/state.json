@@ -317,7 +317,14 @@
     "0fbcc126e33f56233089ac743eaadde27dce1f072e3dbc7bff55f12c44b497c3",
     "f828f837d8f16118f11bac4841805c34f1b22343eb4ecb149d2d26f3f64f54bf",
     "612a67ec64d77bf554ff9f88ecbfe0769bd5051129cc99b02cfe33d89ac004c9",
-    "2d744dcc387bd1d502a78e457ece5e6b841dae0227115b41980d06a10a2db12f"
+    "2d744dcc387bd1d502a78e457ece5e6b841dae0227115b41980d06a10a2db12f",
+    "c430f2dbb6480306210d12aae7e9221ec51dc2e9aff043e454bc5ee2afb5b5a5",
+    "339e63588d3766a1ba2560223737b5ec2a852b37ff3d61040d20c8930a65422a",
+    "fbe56ec076aa5a7bd77ee9a7a66f0b49c2cb9f617eb6a8094d956dc9f566c735",
+    "b875b62b25adb15518a106baf2637a24bfebcdbefc2becc06e304ae92465fa7d",
+    "0e94453c49245adb7a88d4139df46a6bc8f5e2e1a50ae364f0d2d231254bbff3",
+    "afed9d16a395d2f1c9a9371e817ebddb80dfb9558e1d1790978fe71932da4cf0",
+    "7b3918e876e20b3b638e67b32137f21c637e2eb8601d625cdf403d90ad7d7c36"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -426,7 +433,7 @@
       "Do credits expire or roll over?",
       "Credits are valid for 12 months from purchase. Unused credits expire and do not roll over after the expiry date.",
       "What happens if credits are used due to a compromised account?",
-      "If your account is compromised and credits are used without authorization, contact support@openai.com immediately. We will investigate the incident, restore lost credits if misuse is confirmed, and assist with password resets and security controls. We also recommend that you take immediate steps to secure the account by following the steps outlined here: https://help.openai.com/en/articles/7242626-how-can-i-report-fraud-or-suspicious-activity",
+      "If your account is compromised and credits are used without authorization, report the incident immediately using the Unauthorized Activity webform and contact OpenAI Support using the chat bubble in the bottom-right corner of this page . We will investigate the incident, restore lost credits if misuse is confirmed, and assist with password resets and security controls. We also recommend that you take immediate steps to secure the account by following the steps outlined here: https://help.openai.com/en/articles/7242626-how-can-i-report-fraud-or-suspicious-activity",
       "Are credits transferable?",
       "Credits are non-transferable, have no cash value, and cannot be resold or gifted.",
       "What terms govern the purchase of credits?",
