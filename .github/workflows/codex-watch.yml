@@ -2,11 +2,16 @@ name: Codex Watch
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    # Four checks per hour, shifted away from :00/:15/:30/:45.
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: codex-watch
+  cancel-in-progress: false
 
 jobs:
   monitor:
@@ -21,6 +26,8 @@ jobs:
         uses: actions/setup-python@v6
         with:
           python-version: "3.12"
+          cache: pip
+          cache-dependency-path: codex-watch-telegram/requirements.txt
 
       - name: Install dependencies
         working-directory: codex-watch-telegram
@@ -34,14 +41,24 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python monitor.py
 
-      - name: Save monitor state
+      - name: Monthly repository heartbeat
+        shell: bash
+        run: |
+          MONTH="$(date -u +'%Y-%m')"
+          if [ ! -f .codex-watch-heartbeat ] || [ "$(cat .codex-watch-heartbeat)" != "$MONTH" ]; then
+            printf '%s\n' "$MONTH" > .codex-watch-heartbeat
+          fi
+
+      - name: Save state only when something changed
+        shell: bash
         run: |
           git config user.name "codex-watch-bot"
           git config user.email "codex-watch-bot@users.noreply.github.com"
-          git add codex-watch-telegram/state.json
+
+          git add codex-watch-telegram/state.json .codex-watch-heartbeat
 
           if git diff --cached --quiet; then
-            echo "No state changes"
+            echo "Nothing changed — no commit."
             exit 0
           fi
 
