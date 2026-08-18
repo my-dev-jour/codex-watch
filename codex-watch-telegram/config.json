@@ -1,0 +1,17 @@
+{
+  "monitor": {
+    "official_codex_changelog": true,
+    "official_whats_new_digest": true,
+    "official_usage_pricing_pages": true,
+    "stable_github_releases": true,
+    "codex_status": true,
+    "developer_github_comments": true,
+    "community_usage_relays": true,
+    "security_plugin_updates": false
+  },
+  "noise_control": {
+    "alert_prereleases": false,
+    "alert_bugfix_only_changelog_entries": false,
+    "max_alerts_per_run": 12
+  }
+}
