@@ -749,7 +749,12 @@
     "b6130fd4e23a196474c0e0c60a6705789d0948da4b695e2e6a2253ab61db0466",
     "5bab1e51faa0fb32d23e43f96619694ca833643fea4ade7b12405b8d1c1671e3",
     "f049ba24b1a15f1d4067baa48f1a6c68eb1690bac157ffbe77409fb9870b6b72",
-    "96c3ce68729b8ac6622fe8030c5a78995892ef5c5c4d19492d513fc665ee38ed"
+    "96c3ce68729b8ac6622fe8030c5a78995892ef5c5c4d19492d513fc665ee38ed",
+    "a2383f40aac2478842cef41ad2880f3bc0949fe8c73826bfe007e5053fade56a",
+    "0fee5d4a1c9bf9c2129097e87933dfd84c1e63779b1cd49aa7bd1702e9fdbfd3",
+    "dbf55cf27c1b5bbd371df31e3bfdd8123a851642aa48adaae86f6ed703c9b0e6",
+    "cecca5d1258ad09e178315d44a63d42944ed9c48f6878822ddafd19da750e263",
+    "6317c4da73f56136a8eca647a33e090826a6682902593ea18c4bc659d91d5c9e"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -906,7 +911,13 @@
       "Referral rewards vary by offer and plan. For current reward, limit, and eligibility details, see Invite friends and coworkers and Codex Referral Promotions .",
       "What happens if I reach a usage limit while Codex is working?",
       "If you reach a usage limit during an active turn, Codex can continue working on that turn, subject to fair-use limits. After that turn, check the Codex usage page or the limit banner for the options available on your plan, such as adding credits, applying an available reset, upgrading, or waiting for the limit to reset. For more details, see Codex usage limits .",
-      "On August 31, 2026, GPT-5.4 and GPT-5.4 mini will no longer be available in Codex when you sign in with your ChatGPT account."
+      "On August 31, 2026, GPT-5.4 and GPT-5.4 mini will no longer be available in Codex when you sign in with your ChatGPT account.",
+      "Can Support reset my usage limits?",
+      "No. OpenAI Support does not reset ChatGPT or Codex usage limits. If you reach a limit, wait until it resets or use another available option shown in your account.",
+      "How do one-time usage-limit resets work?",
+      "OpenAI may occasionally provide eligible users with a one-time reset of Codex or ChatGPT Work usage limits. Eligibility, the limits affected, and any redemption or expiration requirements may vary by offer. Future resets are not guaranteed.",
+      "An automatic reset is applied directly to the usage limits covered by the announcement. The automatic reset itself is not saved for later. Usage after it is applied counts toward your refreshed allowance. Some offers may also include a separate banked reset. If you receive one, check your account or the offer for redemption and expiration details.",
+      "We do not provide an additional reset, credit, refund, or other compensation solely because you were not eligible for a one-time reset, did not notice a correctly applied reset, or did not use a banked reset before its stated expiration."
     ]
   },
   "weekly_digests": [
