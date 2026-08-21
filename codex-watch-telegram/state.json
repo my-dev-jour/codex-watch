@@ -896,7 +896,11 @@
     "635a00f7dfa11653454825d73b4b2883a116fc5f58dde61eb51240c9b961be28",
     "94dec81ad41cb7f651e2ce170be7eddef03655d1e8992743f0f7df263efe7aba",
     "ae6d08d908a589a7c989f7bb1464cfb9b9875c9f8c5f2d70d45c3f6cdd50ab7e",
-    "f13ad1aee2380ef3fc432fd6ced14e0598a07d838715c7b211091b2fc26872f2"
+    "f13ad1aee2380ef3fc432fd6ced14e0598a07d838715c7b211091b2fc26872f2",
+    "2632b25061da6225f399506fbcaf56c6370e7afa85a600ed9dc67473d9721127",
+    "8324ba94d094a52583505f550494bc60fb37a241b7597315687b4ba5c8b40e4a",
+    "0fe04f06434cc80d7949a023608b45f7bc1850c2ded21c946e839db4e008fb7f",
+    "00d5eb777f2debe28661bef0c073021ace34048589892ff5bf9d1272c3efeabf"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -933,7 +937,8 @@
       "Enterprise and Edu workspaces on flexible pricing scale usage with credits and do not have fixed rate limits; workspaces without flexible pricing remain subject to their plan limits.",
       "Reasoning choices such as Ultra are not separate model rows in this rate card: Ultra uses maximum reasoning and may run additional agents for eligible users, so credit usage still depends on the model used and the tokens produced by the task and any agents it runs.",
       "Upcoming model retirement: On Aug 31, 2026, GPT-5.4 and GPT-5.4 mini will retire in Codex for users signed in with ChatGPT. Use GPT-5.6 Terra instead of GPT-5.4 and GPT-5.6 Luna instead of GPT-5.4 mini. OpenAI API access and Codex use with your own API key are not affected.",
-      "A typical Codex task using GPT-5.6 Sol may consume between 5 and 40 credits per task.",
+      "Note : GPT-5.6 Sol’s promotional pricing is available at least through November 21, 2026. The promotion applies to eligible usage paid for with purchased credits. Included plan usage, 5-hour and weekly limits, and legacy credit rates are unchanged.",
+      "A typical Codex task using GPT-5.6 Sol may consume between 5 and 30 credits per task.",
       "Fast mode consumes credits at a higher rate for supported models. See Speed for current rates.",
       "GPT-5.3-Codex-Spark is available to ChatGPT Pro users only as a research preview, uses a separate usage limit, and is not available through API keys at launch. For Plus and Pro credit rates, see Using Credits for Flexible Usage in ChatGPT (Free/Go/Plus/Pro) .",
       "Codex, ChatGPT Work, ChatGPT for Excel, and Workspace Agents draw from the same agentic usage and credit pool when those features are available on your plan. See Codex pricing and usage limits .",
@@ -947,7 +952,7 @@
       "Total: 7.25 credits.",
       "A typical ChatGPT for Excel/Sheets task using GPT-5.5 may consume between 5 and 20 credits per message.",
       "A typical ChatGPT for PowerPoint task using GPT-5.5 may consume between 10 and 50 credits per message.",
-      "A typical end-to-end Workspace Agent run using GPT-5.5 may consume between 5 and 25 credits.",
+      "A typical end-to-end Workspace Agent run using GPT-5.6 may consume between 5 and 25 credits.",
       "Included rate limits for ChatGPT Business",
       "Standard ChatGPT Business seats include access to ChatGPT and Codex. Usage for ChatGPT Work, Workspace Agents, ChatGPT for Excel, ChatGPT for PowerPoint, and Codex draws from the same agentic usage and credit pool. Flexible pricing can be used to extend included limits once pricing is in effect for each feature. Usage-based Codex-only seats include Codex only. Learn more about Business seat types, including Codex seats, in What is ChatGPT Business?",
       "ChatGPT Sites is available to Business and Enterprise customers, with public publishing available where supported. Sites is also rolling out in public beta to additional paid plans. Pricing information will be available soon.",
