@@ -1405,7 +1405,11 @@
     "0fd857cbde190d77ac84851e93d4b98595612c83b391d6f6f4f4c52ad3e106e6",
     "8024afe64182b3cc1fbb35f881db9319c5784c1b3a1e57ac7d12cf91f85eec72",
     "37706838db294106fbd6b9230b8f869ce8cf5788a88a57e13a7b3d77703dabfa",
-    "493622e304897e61fcc54e374fb8365a0cd5536c5365e8653f0822df2067a424"
+    "493622e304897e61fcc54e374fb8365a0cd5536c5365e8653f0822df2067a424",
+    "ecfcafcabe5ab520a167c1b524a17c15d4f84fbe615aa15f8ac47c4ee3a44866",
+    "21db0fbecc2efb7fa6b06a28e2901718bd2f013cddda1350f7e9a0db6d91741b",
+    "cac11ea2d18c053743d831e98c7ab0d5a38b866baf9f6fdf56e08d541fed3edf",
+    "9e411f9fe6cc5df63b9d0c8d9e60da526ee1d81221ea70722dace8811e5d6bfa"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -1431,8 +1435,7 @@
       "Total credits = (input tokens / 1,000,000 × input rate) + (cached input tokens / 1,000,000 × cached input rate) + (output tokens / 1,000,000 × output rate)",
       "Actual credit usage varies based on the model, task complexity, input size, cached input, output length, automations, and fast mode. To learn more, see What are tokens and how to count them?",
       "The credit rate for a ChatGPT message is based on the model used by the selected option.",
-      "Instant chat is unlimited. Medium, High, and Extra High use different reasoning efforts, but they all use GPT-5.6 Sol and have the same rate of 10 credits per message. Selecting a higher reasoning effort does not increase the per-message credit rate. Pro uses GPT-5.6 Sol Pro and is charged at 50 credits per message.",
-      "When automatic reasoning is enabled, ChatGPT may use additional reasoning for a request while Instant remains selected. Requests that use GPT-5.6 Sol consume 10 credits. Requests that use GPT-5.6 Luna do not consume credits.",
+      "Instant chat is unlimited. Medium, High, and Extra High use different reasoning efforts, but they all use GPT‑5.6 Sol and have the same rate of 10 credits per message. Selecting a higher reasoning effort does not increase the per-message credit rate. Pro uses GPT‑5.6 Sol Pro and is charged at 50 credits per message. Instant may automatically switch to Medium when a request requires more reasoning. When this happens, the message uses GPT‑5.6 Sol and is charged at 10 credits. Unlimited or virtually unlimited access is subject to abuse guardrails and any model-specific usage allowances. Temporary restrictions may apply to prevent misuse.",
       "For ChatGPT Edu customers, the following usage is included at no additional cost and does not consume credits:",
       "The 24-hour period begins at the time of first use. For example, if a user generates an image at 10:00 AM, they can generate two additional images until 10:00 AM the following day. Usage beyond these limits consumes credits at the rates listed above.",
       "ChatGPT Work and Codex usage is priced based on token usage, calculated as credits per 1M input tokens, cached input tokens, and output tokens.",
