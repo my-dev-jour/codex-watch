@@ -1573,7 +1573,12 @@
     "4822695a51d8ef9f720a7909b55bc8069d616665495c6495bf89b25a6f9d5b2e",
     "73f8da8a1bd2392515469c1153e12051f6121c8a0a525271a1e555e60bd13ad2",
     "adfd75f4b04ecea219fc6931d0baa0643b2fe50798335fedfe224c78f0ba0d00",
-    "25896f1c0714b6649ccfe07acc1df2bd8327d16a888dd9e09699526f8d7b0f21"
+    "25896f1c0714b6649ccfe07acc1df2bd8327d16a888dd9e09699526f8d7b0f21",
+    "b7896089b8d01f57af787d43bac4ffc27dd59a82b805ef4bbc872ad575fbbcc5",
+    "c61c01808f5fe839db096bb90c476fb130f1cfcdab0d4bc41d069eefdb8620fb",
+    "759903d8e2cb2f20cd16f6e4093d17ea92b2375a411be419cc70bef2c84d5f9a",
+    "03c3ad8f37cb9f1e45f2ceb0a20ccd0e17a65ff7022564b1311b2ccd5cf2e057",
+    "65f1582096180ad44d80e05425642933581e7b7bd762a71a3b6ca7fb5aa846f1"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -1677,7 +1682,7 @@
       "No. Referral offers are intended only for eligible users and eligible invitees. They may not be transferred, sold, or exchanged."
     ],
     "Flexible usage credits": [
-      "Using Credits for Flexible Usage in ChatGPT (Free/Go/Plus/Pro)",
+      "Using Credits for Flexible Usage in ChatGPT (Plus/Pro)",
       "Key information and FAQs about using credits",
       "Credits extend usage for supported features after included plan limits are reached. The supported feature set can change; the usage page and rate card show the options available to your plan.",
       "We're adding the ability for you to purchase credits when you reach your plan's included limits, without the need to upgrade your plan. Credits currently can only be used with Codex (for Plus/Pro users only) and ChatGPT for Excel .",
