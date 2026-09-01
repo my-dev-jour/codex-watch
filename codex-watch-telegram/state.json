@@ -6,7 +6,8 @@
     "0.149.1",
     "0.150.0",
     "0.150.1",
-    "0.151.0"
+    "0.151.0",
+    "0.152.0"
   ],
   "initialized": true,
   "last_run_utc": "2026-08-18T06:17:55.029540+00:00",
@@ -1896,7 +1897,13 @@
     "dba69b40a6480cc20cd651d672d0f32a7c7feb2fa791d1808a9cc6abcbbd5896",
     "4703f6ad4050956cfb99a7673b61d2b215ea51b4b0beb70ef758b66049ee4e32",
     "a5a0890f69595dea2ca7f24b7935c052b82a4aa9a3f126654b93ba0e98b510d5",
-    "cbca165a160caf798dbfd6e174f1091afd8ddd9f64d8adbdc7a09b6f595181cf"
+    "cbca165a160caf798dbfd6e174f1091afd8ddd9f64d8adbdc7a09b6f595181cf",
+    "5e5c053c7c29e2f7f0af5473d7b56fb5cfe4004b383af4a3267f8c38673882bc",
+    "3261c6ddd2b8e20aa589601de45d8732cafe4023f9c24e24bf27f53cdf4706ea",
+    "4464cd868f784cecc86f0f1c57c09dadd1588015d541d5fb019a13e08bbdb78d",
+    "2ee2af424769890745370b27c7f78960e6a75c545f326f3561cb578e6f9c09a4",
+    "c03bd70ebfda7ec1a2c22017ef83f449011b2fb8e4aeed759100f59472999bd8",
+    "0a2b473ff986c987ded54d616688f065c8336998067924851e75cf65036b821b"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -2011,8 +2018,8 @@
       "How credits work",
       "Your plan's included usage is used first. After you hit plan limits, usage draws from your credit balance. Read about Codex usage limits . For Plus and Pro, supported agentic features, including Codex, ChatGPT Work, and ChatGPT for Excel, can draw from the same agentic usage allowance.",
       "Viewing and buying credits",
-      "If you hit a usage limit in Codex on Plus or Pro, you'll see an option to add credits. If credit purchases are available to your account, you can view your current balance, and buy credits from Settings > Usage in ChatGPT or Usage & Billing in the Codex app.",
-      "If automatic reload is available to your account, you can turn it on from Settings > Usage in ChatGPT or Usage & Billing in the Codex app. When your credit balance drops below your selected minimum balance, we automatically purchase only the amount needed to return it to your selected target balance using your default payment method on file. If your balance is already below the minimum when you turn it on, a purchase may happen right away.",
+      "If you hit a usage limit in Codex on Plus or Pro, you'll see an option to add credits. If credit purchases are available to your account, you can view your current balance, and buy credits from Settings > Usage in ChatGPT or Usage & Billing in the Codex app. Your usage-credit balance is separate from your ChatGPT wallet balance. Usage credits pay for supported feature usage; your wallet is a balance in US dollars that can include redeemed gift-card funds. Redeeming a gift card does not itself add usage credits. For eligible one-time credit purchases on the ChatGPT website, checkout may apply wallet funds. Review the wallet amount applied and any remaining amount due before confirming the pur",
+      "If automatic reload is available to your account, you can turn it on from Settings > Usage in ChatGPT or Usage & Billing in the Codex app. When your credit balance drops below your selected minimum balance, we automatically purchase only the amount needed to return it to your selected target balance using your default payment method on file. If your balance is already below the minimum when you turn it on, a purchase may happen right away. Automatic reload purchases usage credits, and does not top up your wallet balance . The wallet checkout guidance above is for eligible one-time purchases, not automatic reloads.",
       "Managing credit balance",
       "If a task starts while your balance is positive but finishes after concurrent usage depletes it, your balance can go negative. In that case, later credit purchases or automatic reloads may first offset the negative balance before increasing your available credits. Check Settings > Usage in ChatGPT or Usage & Billing in the Codex app for your current balance and recent usage.",
       "A typical ChatGPT for Excel/Sheets task may consume between 5 and 20 credits per message.",
