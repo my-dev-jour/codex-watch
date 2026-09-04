@@ -2044,7 +2044,14 @@
     "c6a49357ad9655fdb941bc8cd60c76235e2eb001263057b9782243824a95ade5",
     "6bea345341030c824a41297b8dc60826b578c52a621348c65b600f0ccb3fda78",
     "01862fbdb78f66c9146dec14f38723681206f9de27920db3301909616dfcdbf0",
-    "501065eec0b4870877449ebd13edd981c8e394568d7a9319e3dab3e939627418"
+    "501065eec0b4870877449ebd13edd981c8e394568d7a9319e3dab3e939627418",
+    "189b5dff58eaef4f75d0a6b7828383194d44a9ca04a02bd5da23121afc023e2f",
+    "d517d6b1d3bfd67d88456cc427bf7407b4a0e1825ca7adb5b7f21e71f31b44a7",
+    "57e49dc683f13bd921528dfeca23bcafd92467d4479d707a0c1bb8b8d4a2490e",
+    "7c8ef427b124a3c3853f1fd1f850fad0d9c5d0c405b499e7042f75f4a717865f",
+    "5c07adeda812f7c2907036e26e6ff91e8906cb045dd8f439db7c24238be48f6e",
+    "90af76df3852f3fc31f4342da150d9574876d21035c676a68f95c52abfb960ea",
+    "c9e2e71e479ea5eed94c586ada53c137aee6eb533fb0e894c397136a1e9a6b00"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -2059,6 +2066,7 @@
     "Codex rate card": [
       "ChatGPT Rate Card (Business, Enterprise/Edu credit-based pricing)",
       "Learn how credit rates work for ChatGPT Chat, Work, and Codex for Business & Enterprise/Edu plans.",
+      "GPT‑6 Astra is rolling out today for enterprises in our Daybreak Access Program , with access through API, and our Plus, Pro, Business and Enterprise plans in the coming days.",
       "OpenAI o3 will be retired from ChatGPT on Aug 26, 2026. Until its retirement, the o3 credit rate listed below continues to apply. This change does not affect API access. For more information, see: Model Release Notes .",
       "This article outlines the current credit rates for ChatGPT Business and Enterprise/Edu plans under flexible, credit–based pricing. It covers ChatGPT models and features, ChatGPT for Excel, ChatGPT for PowerPoint, Workspace Agents, ChatGPT Work, and Codex.",
       "For more information about how credits and flexible pricing work, see Flexible pricing for the Enterprise, Edu and Business plans .",
