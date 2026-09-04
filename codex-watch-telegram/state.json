@@ -11,7 +11,8 @@
     "0.152.1",
     "0.153.0",
     "0.153.1",
-    "0.153.2"
+    "0.153.2",
+    "0.153.3"
   ],
   "initialized": true,
   "last_run_utc": "2026-08-18T06:17:55.029540+00:00",
@@ -2069,7 +2070,17 @@
     "183096ff645abde0932eb2cf3c327852c9ba89c58aded3ea0adeb2f10b837df1",
     "7ce401e8ab0ed3aa7441eeb473c94077dd2e94d73e5d373778ee27b8c4dbf4a7",
     "f46d3fbff5f39335b6cf130655430a607666dfaf0dd350dc9a13615705dfdf85",
-    "5da754e0a544a64c79cee07aa267ba3f6568999d2c2499a0508ead186290f9d0"
+    "5da754e0a544a64c79cee07aa267ba3f6568999d2c2499a0508ead186290f9d0",
+    "42fb5ab37d6345b17eda6c865f5e2168a5dcfbafea0078eabef2fd0c23370ff2",
+    "71a2585e03cd7cb99763a850b5a1cd26eb55ebe8265aeaf9976c4d36896624ae",
+    "c660d3b6bb075a408fa943a4a07ae0bc89cc9b0b54e3738902e007d967179473",
+    "7cca9a0bd904fed2ec4f21cceea31a5d8b03070c3f5e6cfeb7dcbd62acda9c87",
+    "46831338570b711394b83f963a36e5fade367ffe49a553dde37051be650cfd1c",
+    "5c6410c703caf40d3477da219a2870ef76772a8279497ef450bbfaab2b30947b",
+    "22564f0bee96f4f119894f97f49e37d270e3c85411e3a70885a2f70c64479319",
+    "ad91903953eac6d1154e6206dfd8c379240f9719f45e2bbf5571e8f287114f76",
+    "f175aef280284bac0159cd6fd74334344e799d63c4cc787e8542d52d96b48e01",
+    "0a87388d42f4accad650ca875c70b02170a504059b8a3fb62aa4a67513924b7a"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -2102,7 +2113,7 @@
       "ChatGPT Work and Codex usage is priced based on token usage, calculated as credits per 1M input tokens, cached input tokens, and output tokens. This rate card applies to:",
       "A small subset of Enterprise customers that should continue using the legacy Codex rate card until their workspace is migrated. If you are unsure which rate card applies, contact OpenAI Sales .",
       "For ChatGPT Business, standard ChatGPT seats use included plan limits first . If the workspace has purchased credits, eligible usage can continue from the shared credit pool after an included limit is reached. Usage-based Codex-only seats include Codex usage only and require workspace credits from first use. Enterprise and Edu workspaces on flexible pricing scale usage with credits and do not have fixed rate limits; workspaces without flexible pricing remain subject to their plan limits. Reasoning choices such as Ultra are not separate model rows in this rate card: Ultra uses maximum reasoning and may run additional agents for eligible users, so credit usage still depends on the model used a",
-      "Note : GPT-5.6 Sol’s promotional pricing is available at least through November 21, 2026. The promotion applies to eligible usage paid for with purchased credits. Included plan usage, 5-hour and weekly limits, and legacy credit rates are unchanged.",
+      "Note : GPT-5.6 Sol’s promotional pricing is available at least through November 21, 2026. The promotion applies to eligible usage paid for with purchased credits. Included plan usage, 5-hour and weekly limits are unchanged.",
       "A typical Codex task using GPT-5.6 Sol may consume between 5 and 30 credits per task.",
       "Fast mode consumes credits at a higher rate for supported models. See Speed for current rates. For GPT-6 Astra in Work and Codex, Fast mode is charged at 2.5× the Standard rate.",
       "GPT-5.3-Codex-Spark is available to ChatGPT Pro users only as a research preview, uses a separate usage limit, and is not available through API keys at launch. For Plus and Pro credit rates, see Using Credits for Flexible Usage in ChatGPT (Free/Go/Plus/Pro) .",
