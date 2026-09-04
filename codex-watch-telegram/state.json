@@ -2080,7 +2080,14 @@
     "22564f0bee96f4f119894f97f49e37d270e3c85411e3a70885a2f70c64479319",
     "ad91903953eac6d1154e6206dfd8c379240f9719f45e2bbf5571e8f287114f76",
     "f175aef280284bac0159cd6fd74334344e799d63c4cc787e8542d52d96b48e01",
-    "0a87388d42f4accad650ca875c70b02170a504059b8a3fb62aa4a67513924b7a"
+    "0a87388d42f4accad650ca875c70b02170a504059b8a3fb62aa4a67513924b7a",
+    "de69ce52603bf8292e10076fa78ba5d227ed2ea1e32fdc1236ac0dd59bdcf63c",
+    "a3bf16a398f688e2626df7ffcebf1675896b1dbaf3602f466600054ae36a7b5c",
+    "1cb327c58e09563424cfbd4b786bf13fc63df371a358dae6fb19a5fd97313df8",
+    "9b3188c9b8e23550f5d8bd666a85c1c318c9df9290f5b8787587c1c57c7016d7",
+    "3ada9613d2c1a938ea0a8433cb74088c44ae4a19888f74171f290eed7dbc6d2f",
+    "d5f9438b7108550d0780c18bc6ea324b27b683dfbb1aebae19be3e1d3dac55ba",
+    "85dc1a4030e254f5c5042b9cfa19240f0c9b2b8a8c6daf3c48597aba7ad9fdf8"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -2095,7 +2102,7 @@
     "Codex rate card": [
       "ChatGPT Rate Card (Business, Enterprise/Edu credit-based pricing)",
       "Learn how credit rates work for ChatGPT Chat, Work, and Codex for Business & Enterprise/Edu plans.",
-      "GPT‑6 Astra is rolling out today for enterprises in our Daybreak Access Program , with access through API, and our Plus, Pro, Business and Enterprise plans in the coming days.",
+      "GPT‑6 Pro, powered by GPT‑6 Astra, is rolling out in ChatGPT for Pro $100, Pro $200, Business and Enterprise plans. Enterprise access also depends on your workspace’s model-access permissions. Plus plans include GPT‑6 Astra in ChatGPT Work and Codex as it rolls out. Rollout is gradual, and availability can differ between Chat, Work and Codex. Note : Astra requires Codex CLI version 0.153.0 or newer . Additionally, please update to the latest available ChatGPT Desktop app.",
       "OpenAI o3 will be retired from ChatGPT on Aug 26, 2026. Until its retirement, the o3 credit rate listed below continues to apply. This change does not affect API access. For more information, see: Model Release Notes .",
       "This article outlines the current credit rates for ChatGPT Business and Enterprise/Edu plans under flexible, credit–based pricing. It covers ChatGPT models and features, ChatGPT for Excel, ChatGPT for PowerPoint, Workspace Agents, ChatGPT Work, and Codex.",
       "For more information about how credits and flexible pricing work, see Flexible pricing for the Enterprise, Edu and Business plans .",
