@@ -2335,7 +2335,12 @@
     "285cedff4b61cdc4e398e4ade54a8fe6d786018127f7d33a9958932210cc1f56",
     "0025d9e54d0ed29343eb684328b6101662596af8af0774f5d7b336a82965e8f6",
     "100fc64a754ce255e2221f8e3ae300fa3e6fe74a056714f3fc0cd64b08ed93f6",
-    "6c0e70610e7083ad06cd1f85728919a4fee38036165bdd242db6aabffbd263d6"
+    "6c0e70610e7083ad06cd1f85728919a4fee38036165bdd242db6aabffbd263d6",
+    "89a6359d910096d5fcec21bac2c11c65dea3e24be3d822ebf3c91940bf909cc0",
+    "475303883f5b8899fee726fae7564fb1d0051cbac3c3fdd0378b472288a8e314",
+    "aa19faff9ae267bde470005d4b76d5e3f2630075d16314a32301c8aa00286eb3",
+    "865c107b3054a277e46872987ce30825f7a3c368aa030e4f694c22ec8495c8fb",
+    "ec662ab36e67deeac9810e21c92b648f63366dfd00e67eec47e4df80411f2b97"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -2363,6 +2368,7 @@
       "Actual credit usage varies based on the model, task complexity, input size, cached input, output length, automations, and fast mode. To learn more, see What are tokens and how to count them?",
       "The credit rate for a ChatGPT message is based on the model used by the selected option.",
       "Instant chat is unlimited. Medium, High, and Extra High use different reasoning efforts, but they all use GPT‑5.6 Sol and have the same rate of 10 credits per message. Selecting a higher reasoning effort does not increase the per-message credit rate. Instant may automatically switch to Medium when a request requires more reasoning. When this happens, the message uses GPT‑5.6 Sol and is charged at 10 credits. Unlimited or virtually unlimited access is subject to abuse guardrails and any model-specific usage allowances. Temporary restrictions may apply to prevent misuse.",
+      "GPT-6 Pro is powered by GPT-6 Astra. When billed using credits, GPT-6 Pro costs 50 credits per Chat message, the same rate as GPT-5.6 Sol Pro. Chat usage is metered separately from Astra usage in Work and Codex.",
       "For ChatGPT Edu customers, the following usage is included at no additional cost and does not consume credits:",
       "The 24-hour period begins at the time of first use. For example, if a user generates an image at 10:00 AM, they can generate two additional images until 10:00 AM the following day. Usage beyond these limits consumes credits at the rates listed above.",
       "ChatGPT Work and Codex usage is priced based on token usage, calculated as credits per 1M input tokens, cached input tokens, and output tokens. This rate card applies to:",
