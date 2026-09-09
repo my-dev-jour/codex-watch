@@ -2368,7 +2368,15 @@
     "aaf7eca6988866e0c6c603b4d9fb8cd191013ba126f0848e17d2ed17f17a58f0",
     "2005fbef3b5e172e9f861c1f5489b698fb0289bdfa6a8f5e2694b9583e5df7f9",
     "7d463fd0a7a460c382be693a905d174740e9a6d8f7ce2d65866df30ac8539acb",
-    "17a5db7947946cc30cec19da2cc2779da203ca100044c8f9fe67e258fa4db169"
+    "17a5db7947946cc30cec19da2cc2779da203ca100044c8f9fe67e258fa4db169",
+    "a39d071929fe96c186a40a348f7d55d2176c44a06b86660a0dd9dd3edefd1604",
+    "97556086ccbcf35da3e77124ec4c59459c9514a0baaadf7fa7309e6c7d6cd63a",
+    "e58d1b563e07dda2d6f01abfa6929c5d26aba0b4ff654d11132fec907b2b91f9",
+    "15fab3d81051ff62ef44587c8a59a9878b21ec94c1f4d1be9018dbbb9914d336",
+    "436acd185dbf240b4642844a8fb3d4ea3e7908c0d07ce87c1eb44a176c8ff22d",
+    "8f0c201ec8ef68b5c6492b27e4076d45269b3c69f8b3822f52d13b200500a26f",
+    "ae258e11a102a799ba18d8e5b559bb36d8607a8341c13a8e33f0ccd7f1abe630",
+    "de4bbc6a455f1ac3ff6a02b90b2d11a966f5d78598b5f05b3ca031c90f130491"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -2383,7 +2391,7 @@
     "Codex rate card": [
       "ChatGPT Rate Card (Business, Enterprise/Edu credit-based pricing)",
       "Learn how credit rates work for ChatGPT Chat, Work, and Codex for Business & Enterprise/Edu plans.",
-      "GPT‑6 Pro, powered by GPT‑6 Astra, is rolling out in ChatGPT for Pro $100, Pro $200, Business and Enterprise plans. Enterprise access also depends on your workspace’s model-access permissions. Plus plans include GPT‑6 Astra in ChatGPT Work and Codex as it rolls out. Rollout is gradual, and availability can differ between Chat, Work and Codex. Note : Astra requires Codex CLI version 0.153.0 or newer . Additionally, please update to the latest available ChatGPT Desktop app. If you do not see Astra available in Chat, Work or Codex in the desktop app, ensure that you update your app by clicking Menu > Check for Updates, even if you recently updated the app due to an automatic update notification",
+      "GPT‑6 Pro, powered by GPT‑6 Astra, is available in ChatGPT for Pro $100, Pro $200, Business and Enterprise plans. Enterprise access also depends on your workspace’s model-access permissions. Plus plans include GPT‑6 Astra in ChatGPT Work and Codex. Note : Astra requires Codex CLI version 0.153.0 or newer . Additionally, please update to the latest available ChatGPT Desktop app. If you do not see Astra available in Chat, Work or Codex in the desktop app, ensure that you update your app by clicking Menu > Check for Updates, even if you recently updated the app due to an automatic update notification or by clicking on the update icon in the sidebar.",
       "OpenAI o3 will be retired from ChatGPT on Aug 26, 2026. Until its retirement, the o3 credit rate listed below continues to apply. This change does not affect API access. For more information, see: Model Release Notes .",
       "This article outlines the current credit rates for ChatGPT Business and Enterprise/Edu plans under flexible, credit–based pricing. It covers ChatGPT models and features, ChatGPT for Excel, ChatGPT for PowerPoint, Workspace Agents, ChatGPT Work, and Codex.",
       "For more information about how credits and flexible pricing work, see Flexible pricing for the Enterprise, Edu and Business plans .",
