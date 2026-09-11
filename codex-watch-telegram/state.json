@@ -2460,7 +2460,9 @@
     "dedcc65a9e28831e0d8847ca18c7820b5abe2349626f1a71dc23bb2756a447a9",
     "dc1e32e72afc70065b0c881a7a09fdeba0248a6dd020f454df6b1d6436735457",
     "c846b60bb6c31e10ccf0e727c400f4346b80c2ee2a7d30141aa28dc036a775dc",
-    "89b9d8b73ba0bd3c8c72eaf169766ae592b572a6c71482e12e890e69bc0b312d"
+    "89b9d8b73ba0bd3c8c72eaf169766ae592b572a6c71482e12e890e69bc0b312d",
+    "3db777d64b45be1634b1934f9ee43003fbb0e68d596817b8825e2757a2b95161",
+    "076e0738fc3d60f6f6fce4bde7ff6772cb083f73f42d9f2447238c5449f6bdf8"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -2489,6 +2491,7 @@
       "The credit rate for a ChatGPT message is based on the model used by the selected option.",
       "Instant chat is unlimited. Medium, High, and Extra High use different reasoning efforts, but they all use GPT‑5.6 Sol and have the same rate of 10 credits per message. Selecting a higher reasoning effort does not increase the per-message credit rate. Instant may automatically switch to Medium when a request requires more reasoning. When this happens, the message uses GPT‑5.6 Sol and is charged at 10 credits. Unlimited or virtually unlimited access is subject to abuse guardrails and any model-specific usage allowances. Temporary restrictions may apply to prevent misuse.",
       "GPT-6 Pro is powered by GPT-6 Astra. When billed using credits, GPT-6 Pro costs 50 credits per Chat message, the same rate as GPT-5.6 Sol Pro. Chat usage is metered separately from Astra usage in Work and Codex.",
+      "GPT-Rosalind-Research is only available to select Enterprise plans. Read more.",
       "For ChatGPT Edu customers, the following usage is included at no additional cost and does not consume credits:",
       "The 24-hour period begins at the time of first use. For example, if a user generates an image at 10:00 AM, they can generate two additional images until 10:00 AM the following day. Usage beyond these limits consumes credits at the rates listed above.",
       "ChatGPT Work and Codex usage is priced based on token usage, calculated as credits per 1M input tokens, cached input tokens, and output tokens. This rate card applies to:",
