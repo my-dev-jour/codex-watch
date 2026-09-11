@@ -2454,7 +2454,13 @@
     "7d87645a864997a59fac81a64f87d3977c21a8e6fe2fb460b2ba85b86aff11a8",
     "296ea3b96be5a12e1b48381c61567a6807d1cbad3e0faf5c866e07689088ee18",
     "0fc53967a54f3409457796f54bf04f46b9a85adeda0a8356506c459f77b27e28",
-    "7e496ca0e1c7cbe79bf035f89e6cbf875406cbf102077c3a7d97b24d394d0efa"
+    "7e496ca0e1c7cbe79bf035f89e6cbf875406cbf102077c3a7d97b24d394d0efa",
+    "6d0fe390c36f565f58956f88675214499262f159dfd7cfc2e0c27a5cb7805c60",
+    "7a3c4caaa91e7f72a8fe68710159a66f38291cfecb5b84dc618b38c337291b17",
+    "dedcc65a9e28831e0d8847ca18c7820b5abe2349626f1a71dc23bb2756a447a9",
+    "dc1e32e72afc70065b0c881a7a09fdeba0248a6dd020f454df6b1d6436735457",
+    "c846b60bb6c31e10ccf0e727c400f4346b80c2ee2a7d30141aa28dc036a775dc",
+    "89b9d8b73ba0bd3c8c72eaf169766ae592b572a6c71482e12e890e69bc0b312d"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -2580,7 +2586,7 @@
       "Can I use automatic reload with credits?",
       "If automatic reload is available to your account, you can turn it on from Settings > Usage in ChatGPT or Usage & Billing in the Codex app. When your credit balance drops below your selected minimum balance, we automatically purchase enough credits to return it to your selected target balance, up to any maximum monthly spend you set, using your default payment method on file. If your balance is already below the minimum when you turn it on, a purchase may happen right away. The maximum monthly spend applies to automatic reloads, not one-time credit purchases.",
       "Are credits refundable?",
-      "Credits are non-refundable, except where required by law. We may restore credits in cases of confirmed account compromise (see below).",
+      "Credits are non-refundable unless required by law or contract, or an approved exception applies. Unused credits may qualify for a refund for a verified billing error, confirmed unauthorized activity, or a confirmed OpenAI service failure or incorrect account restriction. Credits already used can be reviewed only for a verified billing correction or confirmed unauthorized use, subject to applicable law or contract. We may restore credits in cases of confirmed account compromise, as described below. If you believe an exception applies to your credit purchase, contact OpenAI Support for a review.",
       "Do credits expire or roll over?",
       "Credits are valid for 12 months from purchase. Unused credits expire and do not roll over after the expiry date.",
       "What happens if credits are used due to a compromised account?",
