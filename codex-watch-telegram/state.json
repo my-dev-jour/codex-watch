@@ -2467,7 +2467,10 @@
     "93db6794170ccc0a1d2f883589dee16b73d239f3211154b4aa2c9a5aa5bde6d0",
     "a65b7c29c62c4e70d20c18dc016bfcb6a1293d95f0c26ef56377f2f226e5cede",
     "06460e7a4d89a7823fd0c8676b65756cebdb6c9c319551d6b88c7d916d7a43e7",
-    "533ef4b0a2baea5e93d31718bda1f0a4c66e4b7ded716df4d509d947b173bf64"
+    "533ef4b0a2baea5e93d31718bda1f0a4c66e4b7ded716df4d509d947b173bf64",
+    "78746a4d00608c0428d1f63e25c7352eb3dbda27f87d540e75893f68a9743917",
+    "fd4c5b08023a942193692bef8bc1d5ce53c7af0c452f237fa5a40edb33028e47",
+    "8f3717d8f872334796dfc0b214a8386f10e682bb944b0b3906d89cfbc0b4e071"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -2521,9 +2524,6 @@
       "Included rate limits for ChatGPT Business",
       "Standard ChatGPT Business seats include access to ChatGPT and Codex. Usage for ChatGPT Work, Workspace Agents, ChatGPT for Excel, ChatGPT for PowerPoint, and Codex draws from the same agentic usage and credit pool. Flexible pricing can be used to extend included limits once pricing is in effect for each feature. Usage-based Codex-only seats include Codex only. Learn more about Business seat types, including Codex seats, in What is ChatGPT Business?",
       "ChatGPT Sites is available to Business and Enterprise customers, with public publishing available where supported. Sites is also rolling out in public beta to additional paid plans. Pricing information will be available soon.",
-      "ChatGPT Voice in Desktop uses a separate connected-minute meter. For ChatGPT Business, Edu, and Enterprise customers using credits or pay-as-you-go billing, connected Voice time is expected to cost approximately 6 credits per minute.",
-      "When Voice starts a Codex task, the task also uses the shared Codex usage and credit pool at the token-based rates above. Voice time and Codex task work are metered separately.",
-      "See ChatGPT Voice in Desktop pricing and limits for current plan allowances and additional details.",
       "Monitoring usage and managing credits",
       "You can monitor Codex & Work usage limits in Codex settings under Usage . Depending on your plan and workspace role, you may also be able to view remaining credits, purchase credits, or manage auto-reload there. If you cannot add credits yourself, ask your workspace owner or admin.",
       "Actual credit usage varies based on the model used, task size, input and output mix, automations, fast mode, and the number of concurrent Codex instances.",
