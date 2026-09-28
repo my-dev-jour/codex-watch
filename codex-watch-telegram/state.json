@@ -2973,7 +2973,17 @@
     "18e1b9f3a9b1250a16241bc7734d0f3ddd0f3efd9068dbb822c71c0d791fc0e6",
     "78d5e8823cbd80af6327ed2f594f9a68bd8351df3dd9763263b5dc35a6e0c73c",
     "a8b88819b3d128297cda68468ffe64a3eb993f2e7a8d66c2fd27db5670962463",
-    "3c8f4f1b731a3b5466a8fc129a684cd0f83d3b11845ac53c93f9863acf8a7218"
+    "3c8f4f1b731a3b5466a8fc129a684cd0f83d3b11845ac53c93f9863acf8a7218",
+    "2edf4d919bd4ff0524c1bc4ff85f48db80cc0862531b84dbf0495e316dfc305b",
+    "1149f188c4c5321d4a525f5df0096369d904c51282879ecb2d7024540756c743",
+    "3f20708af096705c9d089d91b5886fa9df30365213c15606d4928b226d1a2b53",
+    "4c6c0d784c9b37397be83daf158c6546635eda303099b37c0ffc31e3c14bdf6d",
+    "ed7da862ef56679b0e78c1137b837eae6c3d698569641a528fd8b16f4caff14a",
+    "29abdfc2d67f2d3566fd29f2d2f321bf5fc13e829de066ed3e5a9b686e82843c",
+    "4868c5ad7fff7378a168cdbe8dad69b5b9c106973b0a159316b24047ecbc10cd",
+    "1de9451cd8772cc7eec7caba50f05673d5a51a66b66dcadefea2a3428a590aea",
+    "282155d3d9622a3fad44cdba12ee441dcd5dc7cd66d23cd720f04868ab3775b0",
+    "0fa2e0b4a573a3a2865bd7ae42a4ee6e1b1260932715a1045b13180e1e8f91ad"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -3015,7 +3025,6 @@
       "Note : GPT-5.6 Sol’s promotional pricing is available at least through Nov 21, 2026. The promotion applies to eligible usage paid for with purchased credits. Included plan usage, 5-hour and weekly limits are unchanged.",
       "A typical Codex task using GPT-5.6 Sol may consume between 5 and 30 credits per task.",
       "Fast mode consumes credits at a higher rate for supported models. See Speed for current rates. For GPT-6 Astra, GPT-6 Sol, and GPT-6 Luna in Work and Codex, Fast mode is charged at 2.5× the Standard rate.",
-      "GPT-5.3-Codex-Spark is available to ChatGPT Pro users only as a research preview, uses a separate usage limit, and is not available through API keys at launch. For Plus and Pro credit rates, see Using Credits for Flexible Usage in ChatGPT (Free/Go/Plus/Pro) .",
       "Codex, ChatGPT Work, Excel, PowerPoint, Word, and Workspace Agents share agentic usage and credits when available on your plan. See Codex pricing and usage limits .",
       "On average, Codex costs approximately $100–$200 per developer per month, though actual costs vary significantly depending on the model used, the number of concurrent instances, automations, and fast mode. See best practices for maximizing rate limits and managing token consumption .",
       "Note: Excel/Sheets, PowerPoint, Word, and Workspace Agents use token-based pricing. The rates shown for those features apply to Business and Enterprise plans.",
