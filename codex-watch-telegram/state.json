@@ -3167,7 +3167,12 @@
     "e01cb11e756f78be1cf5b88807c8190d02582a8fbfd51345a4dcd658851aaafa",
     "3017f9d1fcf51db7ab7b7a6c47f8568a2a15fddbdcc6984dd59966a7b4d86b15",
     "7e3f3d806b4caa9d932389d62009bfefb03804107dd333adfed6def93ee69b18",
-    "e14d80487cf605b6d650530c32dbc073b21281f1c0b82900eafc4350d955c36c"
+    "e14d80487cf605b6d650530c32dbc073b21281f1c0b82900eafc4350d955c36c",
+    "1aec803429d7b28b67b1bf8c18d4b3eb0a43b9229aa179c190760738b34cfab9",
+    "9ec63979e35a30ca31b5c20c6c43238575c45f76b6e1db7295859f289764b8a9",
+    "0c49d60e075d1a5e7e04e75f19dbf2ca4b182044d129fb62fd893bda6835927e",
+    "370f53131d88de13b0b05ac171c0635b777f65f326eb00e7c91df9b4ee3b7831",
+    "a4fdba04bd25c308288e436d8427e90a5c2f0c696e91666217851d17ec913f2c"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -3313,7 +3318,7 @@
       "Using Codex with your ChatGPT plan",
       "Codex is included across ChatGPT plans, including Free and Go. Codex Cloud is available to eligible Plus, all Pro tiers, Business, Enterprise, Healthcare, and Education accounts, subject to rollout and workspace settings. It is not included with Free or Go.",
       "To start using Codex with your ChatGPT plan: Sign in with your ChatGPT account. Codex is included across ChatGPT plans, including Free and Go. Usage limits vary by plan. For more information, including higher-usage options for individuals and Codex credit plans for business users, visit chatgpt.com/pricing . Launch your preferred Codex client and follow the instructions to sign in with ChatGPT:",
-      "The Plugins Directory is visible across ChatGPT plans. Whether a member can install or use a plugin depends on their plan, workspace settings, role, surface, and any app permissions the plugin requires. For Business and Enterprise/Edu workspaces, admins and owners manage plugin installation in Workspace settings > Plugins and underlying app access in Workspace settings > Apps. A plugin can include skills, apps, and app templates. If a plugin requires an app, that app must be enabled for the member's role before Codex can use the app-backed capability. Existing app settings continue to apply, including role access, action controls, approval settings, sync settings, domain restrictions, and pr",
+      "The Plugins Directory is visible across ChatGPT plans. Whether a member can install or use a plugin depends on their plan, workspace settings, role, surface, and any app permissions the plugin requires. For Business and Enterprise/Edu workspaces, admins and owners manage plugin installation in Admin console . Select the intended ChatGPT workspace and open Plugins . Manage underlying app access in Workspace settings > Apps. To open the Apps page from Admin console , select the intended ChatGPT workspace, open Plugins , and select Manage Legacy Apps . For workspace app and plugin controls, see: Admin controls, security, and compliance for plugins and apps . A plugin can include skills, apps, a",
       "Sites is available on paid ChatGPT plans except Free and Go in supported regions. Sites is not currently available in the European Economic Area, Switzerland, or the United Kingdom. Workspace admins control whether members can create Sites or publish them publicly. Where Sites is available in Codex, describe what you want to build, review the generated preview, and use the available sharing controls. For the full build and deployment workflow, see the Codex Sites developer guide. Workspace admins can control Sites creation and public publishing through the settings available to their plan.",
       "Available controls depend on plan and workspace configuration. If you cannot find the expected control, contact OpenAI Support.",
       "Usage limits by plan",
