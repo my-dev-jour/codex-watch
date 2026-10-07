@@ -3260,7 +3260,13 @@
     "31fd451cc10622a41bbef2a3bb8555aca85c560a545d2d76816d99043dc763f0",
     "e8258226f3f094dc90660d7969e6d5c0d03c2dd04e6aa464065d842d7d6502b8",
     "4c66b85e04ad4fa1ffd04f5bacd9086310f55c34b6b5a462426a2f9a53a66690",
-    "682fef9f20bbc6a4f36c1eb9ab6fbb87bcc28891b2f40098ce6aaab3a0d7c3b5"
+    "682fef9f20bbc6a4f36c1eb9ab6fbb87bcc28891b2f40098ce6aaab3a0d7c3b5",
+    "4e663a322f57325896a03e508bb71b491a1b9e9572985be17fa70500492a5c75",
+    "26acfee13515663e924919c16234ab7fedcc05b02ffe88adad3ef4d9b32205af",
+    "519daf3ce7a4eae485e7ce29035bd8ab04804db3a3f7a72ca3d419b03a081a23",
+    "1b955f63b35e5b1d4e7972c15b3031e05b5e0ab83575b4078895148c66189dd5",
+    "6030795d267c8fea0b495f813b394f1f814c6c4ba660b4855756c2c5a9db98de",
+    "b727507f956ec12d231140a5a4abdab3a33665bb94f7b85272807264a7c6961a"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -3380,8 +3386,6 @@
       "If automatic reload is available to your account, you can turn it on from Settings > Usage in ChatGPT or Usage & Billing in the Codex app. When your credit balance drops below your selected minimum balance, we automatically purchase only the amount needed to return it to your selected target balance using your default payment method on file. If your balance is already below the minimum when you turn it on, a purchase may happen right away. Automatic reload purchases usage credits, and does not top up your wallet balance . The wallet checkout guidance above is for eligible one-time purchases, not automatic reloads.",
       "Managing credit balance",
       "If a task starts while your balance is positive but finishes after concurrent usage depletes it, your balance can go negative. In that case, later credit purchases or automatic reloads may first offset the negative balance before increasing your available credits. Check Settings > Usage in ChatGPT or Usage & Billing in the Codex app for your current balance and recent usage.",
-      "When you’re signed in with a ChatGPT account, auto-review safety checks are free and don’t count toward your plan’s usage limits. Other ChatGPT Work and Codex activity continues to use your included allowance or credits, as applicable.",
-      "For usage rates, see the ChatGPT rate card .",
       "These features use token-based pricing at API model rates. Usage depends on the model and the input, cached input, and output tokens used for your task. Rates apply to models supported by each feature.",
       "Rates are shown in credits per 1 million tokens.",
       "In ChatGPT for Word, Free and Go plans use GPT-5.6 Luna. Plus and Pro plans can use the four models listed above, with GPT-5.6 Sol selected by default. Model availability can vary by feature and region.",
