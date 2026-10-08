@@ -3300,7 +3300,15 @@
     "507547573bf167aa07a2d01f466d66b805a5dcd90df7e336ea8d88c883e873b4",
     "21513e9a7be50d58d3f6067e48530c5e82e923d16204cf6edc7c6d2541393d45",
     "80894d570a16f2acc3ee8f9d7c325a3cfa050d0f7338f4fdb8d10e54e2207ea5",
-    "176aa75079e197acde36ca8f5c29124dbbceaa360d610b1665684ed389f00cbd"
+    "176aa75079e197acde36ca8f5c29124dbbceaa360d610b1665684ed389f00cbd",
+    "ba3c05d23a294690ee176c714e49d3fbd7321b3f71e19bcf873f65e098707ec3",
+    "02855d9a5e1f086492a2f779ba113e69eb34d98e3631d26fc1135aeaa7e17ea0",
+    "cb8174deda5b6c71a637c5b1981fff0020e4854c4a308623e7f276a346c41c02",
+    "b9a12487b726a11714c55bc5da540c902dd4512e9774fa6513b1ed3df52c5d06",
+    "03b0d1b17beb72d3e663e24b0ece26cac714448540561a8b84da0a87727a7cf2",
+    "da7a0704cf6d5991978e516b1c61ab2346d614bf015bddbbdd29d8251aabc6d2",
+    "e25c7b9740e6b71d68219c25007f91a566bf7c5dd70bbce17b8b6a389a3b4a71",
+    "9751c7d8894a8b01e67dbc525701e8982f0f708193ec07e59a2fb09b14cba30e"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -3340,8 +3348,8 @@
       "Note : GPT-5.6 Sol’s promotional pricing is available at least through Nov 21, 2026. The promotion applies to eligible usage paid for with purchased credits. Included plan usage, 5-hour and weekly limits are unchanged.",
       "A typical Codex task using GPT-6.1 Sol may consume between 2 and 15 credits per task.",
       "Fast mode: When using credits, Fast mode is charged at 2× the Standard rate for the same model. Supported models include GPT-6.1 Sol, GPT-6 Astra, GPT-6 Sol, and GPT-6 Luna, where available.",
-      "Ultrafast: When using credits, GPT-6 Astra Ultrafast is charged at 6× the Standard GPT-6 Astra rate. Ultrafast is available in ChatGPT Work and Codex on Pro $500 and eligible Enterprise and Edu plans.",
-      "Compared with Standard mode for the same model, Fast mode uses your included subscription allowance at 2.5× the rate, and GPT-6 Astra Ultrafast at 8× the rate. These rates describe allowance usage, not speed increases. See Speed for availability and billing details.",
+      "Ultrafast : When using credits, GPT-6 Astra Ultrafast and GPT-6.1 Sol Ultrafast are charged at 6× the Standard rate for the selected model. Ultrafast is available in ChatGPT Work and Codex on Pro $500 and eligible Enterprise and Edu plans.",
+      "Compared with Standard mode for the same model, Fast mode uses your included subscription allowance at 2.5× the rate, and Ultrafast for GPT-6 Astra and GPT-6.1 Sol at 8× the rate. These rates describe allowance usage, not speed increases. See Speed for availability and billing details.",
       "When you’re signed in with a ChatGPT account, auto-review safety checks are free and don’t count toward your plan’s usage limits. Code review and other Codex tasks continue to use the applicable rates.",
       "Codex, ChatGPT Work, Excel, PowerPoint, Word, and Workspace Agents share agentic usage and credits when available on your plan. See Codex pricing and usage limits .",
       "On average, Codex costs approximately $100–$200 per developer per month, though actual costs vary significantly depending on the model used, the number of concurrent instances, automations, and fast mode. See best practices for maximizing rate limits and managing token consumption .",
@@ -3502,6 +3510,7 @@
     "22b2ebc39f1fad654a561d03e6d94d049384c5ffa280db24cd9ea02e03cd5581",
     "afae85d49efd7c08ce61de27eb49b2170929114322534e8774bd0a8b9c3b733c",
     "3d00a906f48e685cc9832a2b84eb8d802487eaaeca3e996e989c095aa9e00aaa",
-    "b1b11b176d28b8f1fa307e16fc086ade5237640dbaedca7921a8241e15004988"
+    "b1b11b176d28b8f1fa307e16fc086ade5237640dbaedca7921a8241e15004988",
+    "4691f0d73f361c746bb4e91a211cb90633c676d66147c0cc5fddb2f77fe7661b"
   ]
 }
