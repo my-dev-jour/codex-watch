@@ -29,7 +29,8 @@
     "0.159.3",
     "0.160.0",
     "0.160.1",
-    "0.161.0"
+    "0.161.0",
+    "0.162.0"
   ],
   "initialized": true,
   "last_run_utc": "2026-08-18T06:17:55.029540+00:00",
@@ -3293,7 +3294,13 @@
     "66eb33b3b1bb81f24a981ad2e780691cbf952db7e341d9d237e6c08e7ef77a20",
     "8b8575c9433cdf5efd06127019d51fabde407d9731c29d219dd3d93eacffb325",
     "2366033dc5faaeb1fc8cabe60b80a023fc1b2809bd637ce56d5acbacd482b90f",
-    "af014799fcc359716d7ba924ad02c6fce4ab40e6a2460c8478e6c061c8392aac"
+    "af014799fcc359716d7ba924ad02c6fce4ab40e6a2460c8478e6c061c8392aac",
+    "4b6fe5bf41e0a03ae465fefd0d5d191f183457286861b74531cc602711a2f628",
+    "5f4a242fe97e211427f43ba614c43c5cad15bbdf578074042246650ccf9344b1",
+    "507547573bf167aa07a2d01f466d66b805a5dcd90df7e336ea8d88c883e873b4",
+    "21513e9a7be50d58d3f6067e48530c5e82e923d16204cf6edc7c6d2541393d45",
+    "80894d570a16f2acc3ee8f9d7c325a3cfa050d0f7338f4fdb8d10e54e2207ea5",
+    "176aa75079e197acde36ca8f5c29124dbbceaa360d610b1665684ed389f00cbd"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -3318,8 +3325,7 @@
       "Total credits = (input tokens / 1,000,000 × input rate) + (cached input tokens / 1,000,000 × cached input rate) + (output tokens / 1,000,000 × output rate)",
       "Actual credit usage varies based on the model, task complexity, input size, cached input, output length, automations, and fast mode. To learn more, see What are tokens and how to count them?",
       "The credit rate for a ChatGPT message is based on the model used by the selected option.",
-      "Instant chat is unlimited. Medium, High, and Extra High use different reasoning efforts, but they all use GPT‑5.6 Sol and have the same rate of 10 credits per message. Selecting a higher reasoning effort does not increase the per-message credit rate.",
-      "Instant may automatically switch to Medium when a request requires more reasoning. When this happens, the message uses GPT‑5.6 Sol and is charged at 10 credits.",
+      "Instant remains unlimited for current credit-based pricing customers, subject to the guardrails below. GPT-6 Sol powers Medium, High, and Extra High reasoning efforts, each costing 10 credits per message.",
       "GPT-6 Pro is powered by GPT-6 Astra. When billed using credits, GPT-6 Pro costs 50 credits per Chat message, the same rate as GPT-5.6 Sol Pro. Chat usage is metered separately from Astra usage in Work and Codex.",
       "GPT-Rosalind-Research is only available to select Enterprise plans. Read more.",
       "For ChatGPT Edu customers, the following usage is included at no additional cost and does not consume credits:",
@@ -3358,7 +3364,7 @@
       "Which rate card should I use?",
       "Use the rates in this article if your workspace uses credit-based flexible pricing. If your Enterprise agreement specifies usage-based billing in U.S. dollars, see: ChatGPT Rate Card (Enterprise token-based pricing) . Your agreement determines your applicable rates. A small subset of Enterprise customers should continue using the legacy Codex rate card until their workspace is migrated. If you are unsure, contact your OpenAI representative or OpenAI Sales .",
       "Some ChatGPT experiences are billed as a fixed number of credits per message, task, generation, or minute. Agentic products and Codex are billed by the input, cached input, and output tokens used, which provides a direct mapping between model activity and credit consumption.",
-      "No. Medium, High, and Extra High use different reasoning efforts, but they use GPT-5.6 Sol and have the same 10-credit message rate.",
+      "No. The selected model determines the message rate. GPT-6 Medium, High, and Extra High each cost 10 credits per message. Selecting GPT-5.6 Sol continues to cost 10 credits per message; a higher reasoning effort does not change a given model's per-message rate.",
       "How does token-based pricing affect my credit usage?",
       "The impact depends on your workload mix. Some users may see higher credit consumption and others may see lower consumption depending on input, cached input, and output usage. Output-heavy tasks and fast mode generally consume more credits than lighter tasks."
     ],
