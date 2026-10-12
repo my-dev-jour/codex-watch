@@ -3383,7 +3383,12 @@
     "4286a43dc8aed615e5017a78b9c4bc293222e29cdf0f12575bf56077d463bef9",
     "eecf347e332de11519dac35efcf011c056aedd27afe1aa1977b81c383fc66f17",
     "39cf959eeb73db81fdf7adfc008a0dae541c7f729765eee44c0f4fefc45f4f1d",
-    "24ccb06e2a937f9e0edf75e76e811d6fe113addcba742668cca834b98eb35549"
+    "24ccb06e2a937f9e0edf75e76e811d6fe113addcba742668cca834b98eb35549",
+    "60140ecdd7b406253a183e59feea46954a3a81117089a6b01fa4ab2426ced632",
+    "83c187c1ccec77ef136e7df38cc56cf9251a5dbae1b3da5f25183f61bdf35d6d",
+    "caf39d7958a1708d249bb7d6ff6efb8460855a67086f192c358aeffa058f7159",
+    "7dabe1e02d0c37a8a94e3d78e3f6d7ea5eb7f16789e6c2bd48bbd1ee81492df1",
+    "de4abcee9d6f10c2731903d3274a203763697a07c9af32f8d876770e897591a0"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -3533,7 +3538,7 @@
       "To start using Codex with your ChatGPT plan: Sign in with your ChatGPT account. Codex is included across ChatGPT plans, including Free and Go. Usage limits vary by plan. For more information, including higher-usage options for individuals and Codex credit plans for business users, visit chatgpt.com/pricing . Launch your preferred Codex client and follow the instructions to sign in with ChatGPT:",
       "When you’re signed in with a ChatGPT account, auto-review safety checks are free and don’t count toward your plan’s usage limits. They do not remove your workspace’s restrictions or replace every approval prompt.",
       "The Plugins Directory is visible across ChatGPT plans. Whether a member can install or use a plugin depends on their plan, workspace settings, role, surface, and any app permissions the plugin requires. For Business and Enterprise/Edu workspaces, admins and owners manage plugin installation in Admin console . Select the intended ChatGPT workspace and open Plugins . Manage underlying app access in Workspace settings > Apps. To open the Apps page from Admin console , select the intended ChatGPT workspace, open Plugins , and select Manage Legacy Apps . For workspace app and plugin controls, see: Admin controls, security, and compliance for plugins and apps . A plugin can include skills, apps, a",
-      "Sites is available on paid ChatGPT plans except Free and Go in supported regions. Sites is not currently available in the European Economic Area, Switzerland, or the United Kingdom. Workspace admins control whether members can create Sites or publish them publicly. Where Sites is available in Codex, describe what you want to build, review the generated preview, and use the available sharing controls. For the full build and deployment workflow, see the Codex Sites developer guide. Workspace admins can control Sites creation and public publishing through the settings available to their plan.",
+      "Sites is available on paid ChatGPT plans except Free and Go . Workspace admins control whether members can create Sites or publish them publicly according to their workspace permission configuration. For Enterprise workspaces, public publishing is off by default and an admin must enable it. Where Sites is available in Codex, describe what you want to build, review the generated preview, and use the available sharing controls. For the full build and deployment workflow, see the Codex Sites developer guide. Workspace admins can control Sites creation and public publishing through the settings available to their plan.",
       "Available controls depend on plan and workspace configuration. If you cannot find the expected control, contact OpenAI Support.",
       "Usage limits by plan",
       "If you’re nearing or have reached a Codex limit, open Settings or your usage dashboard . Check which allowance is exhausted, your credit balance, and any reset time shown. In an active Codex CLI session, enter /status.",
