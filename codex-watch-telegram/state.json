@@ -3431,7 +3431,10 @@
     "3b6cdaa337056db1fa52810834245519622c414a8c35a8bfdd83b332e0c7d818",
     "c3bcebd025956bb71867f22deeffdade5853c6c9e70f2c35706884cd13303bb9",
     "b0b9d1898708248a67bbb4b037e4d2ebfa33934405ba813d41be3e01a21bae0f",
-    "b690dc41afb533aa4af4160891d875c9e9b3903e8aad823c8317a4f44a745357"
+    "b690dc41afb533aa4af4160891d875c9e9b3903e8aad823c8317a4f44a745357",
+    "e1c3579e659edbfa23b9bf7b81766eecc7cd985b69758d1c355d9c780fa18765",
+    "9a69cd968473fd165d7969b1e26bdc142d5c55179b362b254ff2ff9590ed5365",
+    "4502edbca7bb82255e052ac682c7cd8d3d7534f4a7b27d315e07ca2325b8d1b8"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -3598,7 +3601,6 @@
       "Referral rewards vary by offer and plan. For current reward, limit, and eligibility details, see Invite friends and coworkers and Codex Referral Promotions .",
       "What happens if I reach a usage limit while Codex is working?",
       "For Enterprise workspaces with token-based billing in USD, continuation can depend on the workspace budget and user limits. Contact your workspace admin to identify the relevant limit and available options. For plans with included allowances or credit-based billing, if you reach a usage limit during an active turn, Codex can continue working on that turn, subject to fair-use limits. After that turn, check the Codex usage page or the limit banner for the options available on your plan, such as adding credits, applying an available reset, upgrading, or waiting for the limit to reset. For more details, see Codex usage limits .",
-      "On August 31, 2026, GPT-5.4 and GPT-5.4 mini will no longer be available in Codex when you sign in with your ChatGPT account.",
       "Can Support reset my usage limits?",
       "No. OpenAI Support does not reset ChatGPT or Codex usage limits. If you reach a limit, wait until it resets or use another available option shown in your account.",
       "How do one-time usage-limit resets work?",
