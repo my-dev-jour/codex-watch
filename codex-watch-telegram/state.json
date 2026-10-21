@@ -3608,7 +3608,13 @@
     "a3e4419930ee583655882fa48f38a6655aefb9f511e267bebfbfb7392bc56965",
     "bb3070bfb482280b0ab1d0a291d12858fa9e53829ec05e57b18700ad97800af6",
     "e6c9097b00d01334ec3aeca309449c9917f76b6758b5d70bd9f119820a554d79",
-    "54143558edaad0598fbd9f22483d76c571d7d3316ca19d2740d46db54bfdf532"
+    "54143558edaad0598fbd9f22483d76c571d7d3316ca19d2740d46db54bfdf532",
+    "f71444908539fa8104174d9f760752816128adf710997116d850a3992c0a2cab",
+    "3e8c4dcbad1adda8c9820c3aee3dcca693cb7833bdc3501d981ee8711fe703ec",
+    "260e95111b87e6c7b5c004b72da7ff880760594527c3271eb8f3076583a86f22",
+    "70fd5de2ee2e78a5ae5eadeca2aec930a8e3376e3f225d3f1fe283047cbe7257",
+    "2baf7e3c34545c2108dfe685b4feb5acf1a22a234eb6f5664650fa22fd54a17f",
+    "3216a50d20eb0a55bb246a54aa841c8ed5494f3263a4b991f54e87f7efef0544"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -3768,6 +3774,7 @@
       "For plans that use shared allowances or credits, Codex, ChatGPT Work, ChatGPT for Excel, and Workspace Agents use a shared allowance and credit pool when those features are available on your plan. Usage depends on the model, where the task runs, task complexity, context, reasoning, speed, and tools. A long-running task can use substantially more than a short request. Codex usage on token-based Enterprise agreements is billed in US dollars (USD), instead of deducted from credits. Ask your admin which billing model applies. For applicable rates, see: Enterprise token-based rate card . For billing concepts, see: Token-based billing for ChatGPT Enterprise . Task work started through ChatGPT Voic",
       "If your Enterprise workspace uses token-based billing in USD, contact your workspace admin to check the workspace budget, your effective user limit, and the reset period shown for each control. Follow your organization's process for requesting additional usage. For workspace controls, see: Manage usage limits and overages in ChatGPT Enterprise and Edu . Check the limit notice for the options available to your account. You may be able to add credits, use an available reset, upgrade, or wait until the displayed reset time. Eligible Plus and Pro users can buy credits without changing plans . If purchased credits appear missing, first check that you’re in the correct account or workspace and rev",
       "Contact OpenAI Support . Include the limit or credit balance you’re questioning, the reset time shown, a screenshot, the Codex client and model, and when it happened—including your time zone. Remove sensitive information from screenshots.",
+      "If Codex repeatedly shows “Context automatically compacted” without making progress, stop the affected task and start a new Codex chat with a short summary of your goal and the work already completed. Starting a new chat does not reset your usage limits.",
       "ChatGPT file uploads, image generation, and voice have separate usage limits, reset periods, and banners. For example, if you see banners such as “50 images in the last day” or “resets in 720 hours,” reach voice caps, or see upload-limit banners while uploading files in ChatGPT, those limits do not apply to Codex.",
       "For details on image and video limits and voice limits, see image & video generation limits and voice usage limits . For information about ChatGPT file upload limits and troubleshooting, see File Uploads FAQ . For information on the status of various ChatGPT services, including file uploads, refer to the OpenAI status page .",
       "ChatGPT Voice used inside Work or Codex on desktop is metered separately, while tasks started through Voice use the same shared agentic pool as Work and Codex on plans that use shared allowances or credits. Learn more.",
