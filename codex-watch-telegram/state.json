@@ -3727,7 +3727,13 @@
     "5126f38ba18291179e951f3f0aa87cbb55802d85dd992a8c6d9786cd8c4bae6c",
     "92ac222ba1a87d0d1ee2ba1946101a84ec6206dc3b5fd22786b377a9eef9b6b5",
     "c588acfbf835a64f77131073f5962662062aa151d75c3e5d63f52a4e9d91eb33",
-    "96ea4867672cb00827ec7262ce1d5ceeeb6fd5f2beb09f6c8bb4ca42f908f467"
+    "96ea4867672cb00827ec7262ce1d5ceeeb6fd5f2beb09f6c8bb4ca42f908f467",
+    "1ab88b48f75bdf4e63e800e7ebfbca4351fdb98cdab9da258bcb211c8632e187",
+    "7f29cacaba158a8d23e5e09af32218bf914c72fa855541a55f092b5d4e9fc26f",
+    "12ff4a4e86bc94a8233f24424818043e22fa5a8f50105056dd693d3bba4a63b1",
+    "47183cb5edd34c2b5caebc3eda1af9570b981ef059d0fe8b3fc319424bcdbffe",
+    "8e7b6647afa1f5df73020b61bc33f33fe3e0cb68db916018c954ba7c50fbf4b8",
+    "9af4ea80a651806e398afdf251eda56d4984c68d43d45eb67f7f14c2d82018ec"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -3764,13 +3770,13 @@
       "For ChatGPT Business, standard ChatGPT seats use included plan limits first . If the workspace has purchased credits, eligible usage can continue from the shared credit pool after an included limit is reached. Usage-based Codex-only seats include Codex usage only and require workspace credits from first use.",
       "Enterprise and Edu workspaces on credit-based flexible pricing scale usage with credits and do not have fixed rate limits; workspaces without flexible pricing remain subject to their plan limits.",
       "Reasoning choices such as Ultra are not separate model rows in this rate card: Ultra uses maximum reasoning and may run additional agents for eligible users, so credit usage still depends on the model used and the tokens produced by the task and any agents it runs.",
-      "Note : GPT-5.6 Sol’s promotional pricing is available at least through Nov 21, 2026. The promotion applies to eligible usage paid for with purchased credits. Included plan usage, 5-hour and weekly limits are unchanged.",
+      "Note : GPT-6 Sol also powers GPT-6 in Chat. GPT-5.6 Sol’s promotional pricing is available at least through Nov 21, 2026. The promotion applies to eligible usage paid for with purchased credits. Included plan usage, 5-hour and weekly limits are unchanged.",
       "For Enterprise Codex usage when you sign in with ChatGPT, there is no 272K-input-token pricing threshold and no additional context-length charge. The standard credit rate for the selected Codex model applies regardless of context length. This guidance applies only to the sign-in-with-ChatGPT flow; API-key pricing is separate.",
       "A typical Codex task using GPT-6.1 Sol may consume between 2 and 15 credits per task.",
-      "Fast mode: When using credits, Fast mode is charged at 2× the Standard rate for the same model. Supported models include GPT-6.1 Sol, GPT-6 Astra, GPT-6 Sol, and GPT-6 Luna, where available.",
+      "Fast mode: When using credits, Fast mode is charged at 2× the Standard rate for the same model. Supported models include GPT-6.1 Terra, GPT-6.1 Sol, GPT-6 Astra, GPT-6 Sol, and GPT-6 Luna, where available.",
       "Ultrafast : When using credits, GPT-6 Astra Ultrafast and GPT-6.1 Sol Ultrafast are charged at 6× the Standard rate for the selected model. Ultrafast is available in ChatGPT Work and Codex on Pro $500 and eligible Enterprise and Edu plans.",
       "Compared with Standard mode for the same model, Fast mode uses your included subscription allowance at 2.5× the rate, and Ultrafast for GPT-6 Astra and GPT-6.1 Sol at 8× the rate. These rates describe allowance usage, not speed increases. See Speed for availability and billing details.",
-      "Auto review, used by “Approve for me,” uses GPT-5.6 Luna. When you’re signed in with a ChatGPT account, auto-review safety checks are free and don’t count toward your plan’s usage limits. Code review and other Codex tasks continue to use the applicable rates.",
+      "When you’re signed in with a ChatGPT account, auto-review safety checks are free and don’t count toward your plan’s usage limits. Code review and other Codex tasks continue to use the applicable rates.",
       "Codex, ChatGPT Work, Excel, PowerPoint, Word, and Workspace Agents share agentic usage and credits when available on your plan. See Codex pricing and usage limits .",
       "On average, Codex costs approximately $100–$200 per developer per month, though actual costs vary significantly depending on the model used, the number of concurrent instances, automations, and fast mode. See best practices for maximizing rate limits and managing token consumption .",
       "Note: Excel/Sheets, PowerPoint, Word, and Workspace Agents use token-based pricing. The rates shown for those features apply to Business and Enterprise plans.",
@@ -3936,6 +3942,7 @@
     "3d00a906f48e685cc9832a2b84eb8d802487eaaeca3e996e989c095aa9e00aaa",
     "b1b11b176d28b8f1fa307e16fc086ade5237640dbaedca7921a8241e15004988",
     "4691f0d73f361c746bb4e91a211cb90633c676d66147c0cc5fddb2f77fe7661b",
-    "ac5d88ccf10824997907a6a372171d05eb3a2047e02c22ee2252989cb30f40a4"
+    "ac5d88ccf10824997907a6a372171d05eb3a2047e02c22ee2252989cb30f40a4",
+    "4b4915128060790264b1c001bf46c0becaae08c1da1cc5e9abac1a70cc41bce4"
   ]
 }
