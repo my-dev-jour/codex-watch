@@ -3861,7 +3861,16 @@
     "c8e070b1f197be5bc74c4e43d798af57ead2da3699973363fae20682af6a85d8",
     "7e657548cb352709420f63cfe620167296e61005a4bab8b1009fb20016f4d280",
     "1601b498c5ded26ccdb6304b22e5f8a6412a749952339d14346d6085db360f8f",
-    "fce3d46b7eee4613f4d688533b9e76e7554aab21d0dde10d053652a46c50563f"
+    "fce3d46b7eee4613f4d688533b9e76e7554aab21d0dde10d053652a46c50563f",
+    "a2273359c66cbfadb6dd5a13d44c74cf65c2a69e16424d3a19822dac80e1951f",
+    "2396a36301e5f21728ef0b517ae43a7080818729afedd4bce760154fe7cb10d6",
+    "a688ab3b6e617007c4c8e9464bb54b2f68428ed5f02236d313fc2f02a2e1dcf2",
+    "0e2a3e3c882bd94d2ab0962cc2e01a58b14bbf5b7cf7c9c38f68781645ef6ebf",
+    "10442e3a24284c8add09681a298f141b90ddac9a496a8ed063a92b33bd0a7bea",
+    "d873d6325d148c8276c39171a4e1d29b03cbd87d090e6f6973f52490d981c566",
+    "428d4cc7e6363c946bfb8ac276b50843b0e41f1ae9dbd0fa7e51a448ab3b316b",
+    "46bd111afdd7d97f3758b726a9a0236cc1970cb715fdc2dc76a82d576ea8b006",
+    "49e4df16cb34081c051391cd293ab5be6a02026677dd4e0cdef571cb4c8d7656"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -3928,6 +3937,7 @@
       "Which rate card should I use?",
       "Use the rates in this article if your workspace uses credit-based flexible pricing. If your Enterprise agreement specifies usage-based billing in U.S. dollars, see: ChatGPT Rate Card (Enterprise token-based pricing) . Your agreement determines your applicable rates. A small subset of Enterprise customers should continue using the legacy Codex rate card until their workspace is migrated. If you are unsure, contact your OpenAI representative or OpenAI Sales .",
       "Some ChatGPT experiences are billed as a fixed number of credits per message, task, generation, or minute. Agentic products and Codex are billed by the input, cached input, and output tokens used, which provides a direct mapping between model activity and credit consumption.",
+      "For example, for ChatGPT Business and credit-based Enterprise or Edu, use the Images row under ChatGPT features for an image generated in Chat. For GPT-Image-2 in Work or Codex, use the input, cached-input and output token rates under ChatGPT Work and Codex .",
       "No. The selected model determines the message rate. GPT-6 Medium, High, and Extra High each cost 10 credits per message. Selecting GPT-5.6 Sol continues to cost 10 credits per message; a higher reasoning effort does not change a given model's per-message rate.",
       "How does token-based pricing affect my credit usage?",
       "The impact depends on your workload mix. Some users may see higher credit consumption and others may see lower consumption depending on input, cached input, and output usage. Output-heavy tasks and fast mode generally consume more credits than lighter tasks."
@@ -3980,9 +3990,10 @@
       "Your plan's included usage is used first. After you hit plan limits, usage draws from your credit balance. Read about Codex usage limits . For Plus and Pro, Codex, ChatGPT Work, Excel, and PowerPoint can share the same agentic usage allowance when those features are available on your plan. Word uses that allowance too. You can share your ChatGPT subscription usage, including purchased credits, with eligible partner tools by signing in with ChatGPT on the partner app, and enabling subscription sharing. Subscription sharing with partner tools has separate credit-use controls, is off by default and requires your opt-in. For eligibility and controls, see: Using your ChatGPT plan in partner tools",
       "Viewing and buying credits",
       "If you hit a usage limit in Codex on Plus or Pro, you'll see an option to add credits. If credit purchases are available to your account, you can view your current balance, and buy credits from Settings > Usage in ChatGPT or Usage & Billing in the Codex app. Your usage-credit balance is separate from your ChatGPT wallet balance. Usage credits pay for supported feature usage; your wallet is a balance in US dollars that can include redeemed gift-card funds. Redeeming a gift card does not itself add usage credits. For eligible one-time credit purchases on the ChatGPT website, checkout may apply wallet funds. Review the wallet amount applied and any remaining amount due before confirming the pur",
-      "If automatic reload is available to your account, you can turn it on from Settings > Usage in ChatGPT or Usage & Billing in the Codex app. When your credit balance drops below your selected minimum balance, we automatically purchase only the amount needed to return it to your selected target balance using your default payment method on file. If your balance is already below the minimum when you turn it on, a purchase may happen right away. Automatic reload purchases usage credits, and does not top up your wallet balance . The wallet checkout guidance above is for eligible one-time purchases, not automatic reloads.",
+      "If automatic reload is available to your account, you can turn it on from Settings > Usage in ChatGPT or Usage & Billing in the Codex app. When your credit balance drops below your selected minimum balance, we automatically purchase only the amount needed to return it to your selected target balance using your default payment method on file. If your balance is already below the minimum when you turn it on, a purchase may happen right away. For example, if your minimum is 100 credits, your target is 500 and your balance is 40 when you turn on automatic reload, the gap is 460 credits. A monthly limit you set can reduce the amount purchased. Automatic reload purchases usage credits, and does no",
       "Managing credit balance",
       "If a task starts while your balance is positive but finishes after concurrent usage depletes it, your balance can go negative. In that case, later credit purchases or automatic reloads may first offset the negative balance before increasing your available credits. Check Settings > Usage in ChatGPT or Usage & Billing in the Codex app for your current balance and recent usage.",
+      "If a credit purchase doesn’t match your balance, sign in to the personal account you used to pay. Compare the purchase with your balance and usage for the same period in Settings > Usage in ChatGPT or Usage & Billing in the Codex app. If you still can’t account for the difference, contact Support with the purchase date and receipt reference.",
       "When you’re signed in with a ChatGPT account, auto-review safety checks are free and don’t count toward your plan’s usage limits. Other ChatGPT Work and Codex activity continues to use your included allowance or credits, as applicable.",
       "For usage rates, see the ChatGPT rate card .",
       "These features use token-based pricing at API model rates. Usage depends on the model and the input, cached input, and output tokens used for your task. Rates apply to models supported by each feature.",
@@ -4004,7 +4015,7 @@
       "What happens if credits are used due to a compromised account?",
       "If your account is compromised and credits are used without authorization, report the incident immediately using the Unauthorized Activity webform and contact OpenAI Support using the chat bubble in the bottom-right corner of this page. We will investigate the incident, restore lost credits if misuse is confirmed, and assist with password resets and security controls. We also recommend that you take immediate steps to secure the account by following the steps outlined here: How can I report fraud or suspicious activity?",
       "Are credits transferable?",
-      "Credits are non-transferable, have no cash value, and cannot be resold or gifted.",
+      "Credits in your balance have no cash value. You can’t transfer them to someone else, resell them or give them away. If gifting is available to you, you can buy a separate credit gift for an eligible personal account.",
       "What terms govern the purchase of credits?",
       "Credits are subject to the above and the Service credit terms ."
     ],
