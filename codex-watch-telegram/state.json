@@ -3912,7 +3912,14 @@
     "739e7a4691997a772f783a85f76afc826238682738ca27094eec985f303daf98",
     "c6be29a48c0d6ce5cf37c15165c50e5ee3298f41751dcb591bde87e164f1248d",
     "3b0fe9560a80bef4dc776c961c4a44f03c52e7f0701e8d6fd95714f9d847a71b",
-    "74d214a2a0267658610f7295581859071abb537241dc31a5c2285ca1374cb7ea"
+    "74d214a2a0267658610f7295581859071abb537241dc31a5c2285ca1374cb7ea",
+    "37c2d0ac14bd61b3422fbdd1ecbc37ab5a5303f44de226b20cdce1ef9ecb6404",
+    "3e49dbe17799421e154b4c935a8b14cf388d49a5d859a30f1f7614747ea1cf89",
+    "3cb9c0d01c7f553c53d6ab8b41c9b880416a1cdea2209cb865d3b13b013ae8d2",
+    "9e92ce27d0f6217856961a56c7f7f13de01633c6ac10d141422f3edf072b256e",
+    "627cd610e4d2098a26b1eb9e9ca1b425553a947f547c1cb93f7bf993c0f69c31",
+    "79ce209f0acb4a0fb9ddd93cba490ea358c392ef1ec1ca6b78ef7bd8f1757897",
+    "c5fc0052d4b29a586ea4687a45888f19d0488e1aa40fbbe503eaa6a917fd5845"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -3950,8 +3957,10 @@
       "Enterprise and Edu workspaces on credit-based flexible pricing scale usage with credits and do not have fixed rate limits; workspaces without flexible pricing remain subject to their plan limits.",
       "Reasoning choices such as Ultra are not separate model rows in this rate card: Ultra uses maximum reasoning and may run additional agents for eligible users, so credit usage still depends on the model used and the tokens produced by the task and any agents it runs.",
       "Note : GPT-6 Sol also powers GPT-6 in Chat. GPT-5.6 Sol’s promotional pricing is available at least through Nov 21, 2026. The promotion applies to eligible usage paid for with purchased credits. Included plan usage, 5-hour and weekly limits are unchanged.",
+      "In this rate card, the GPT-6 Cyber row applies to Codex usage by customers with approved GPT-6 Cyber access through Daybreak Red. Daybreak Red approval alone does not grant access to GPT-6 Cyber. Fast and Ultrafast modes are not supported for GPT-6 Cyber.",
       "For Enterprise Codex usage when you sign in with ChatGPT, there is no 272K-input-token pricing threshold and no additional context-length charge. The standard credit rate for the selected Codex model applies regardless of context length. This guidance applies only to the sign-in-with-ChatGPT flow; API-key pricing is separate.",
       "* Access to the Astra for Law model configuration requires approval through Trusted Access . Promotional pricing is available at least through December 31, 2026.",
+      "Daybreak access requires approval through the OpenAI Daybreak/Trusted Access for Cyber program . Daybreak Blue usage with GPT-5.6 Sol uses the GPT-5.6 Sol rates. For standard GPT-6 Astra pricing, use the GPT-6 Astra row above. Model availability and any private-preview terms are separate from these standard rates. Daybreak Red requires separate approval and provisioning.",
       "A typical Codex task using GPT-6.1 Sol may consume between 2 and 15 credits per task.",
       "Fast mode: When using credits, Fast mode is charged at 2× the Standard rate for the same model. Supported models include GPT-6.1 Terra, GPT-6.1 Sol, GPT-6 Astra, GPT-6 Sol, and GPT-6 Luna, where available.",
       "Ultrafast : When using credits, GPT-6 Astra Ultrafast and GPT-6.1 Sol Ultrafast are charged at 6× the Standard rate for the selected model. Ultrafast is available in ChatGPT Work and Codex on Pro $500 and eligible Enterprise and Edu plans.",
@@ -4126,6 +4135,7 @@
     "b1b11b176d28b8f1fa307e16fc086ade5237640dbaedca7921a8241e15004988",
     "4691f0d73f361c746bb4e91a211cb90633c676d66147c0cc5fddb2f77fe7661b",
     "ac5d88ccf10824997907a6a372171d05eb3a2047e02c22ee2252989cb30f40a4",
-    "4b4915128060790264b1c001bf46c0becaae08c1da1cc5e9abac1a70cc41bce4"
+    "4b4915128060790264b1c001bf46c0becaae08c1da1cc5e9abac1a70cc41bce4",
+    "e665d7a291481b2d920e48c86a513fb2a351e80780b1d3307069df5d40a4aced"
   ]
 }
