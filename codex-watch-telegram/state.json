@@ -36,7 +36,8 @@
     "0.164.0",
     "0.165.0",
     "0.166.0",
-    "0.167.0"
+    "0.167.0",
+    "0.167.1"
   ],
   "initialized": true,
   "last_run_utc": "2026-08-18T06:17:55.029540+00:00",
@@ -3995,7 +3996,10 @@
     "cc6a0bf2fe370c4393695129dd73740da1cdcdf214051ca2e3eee0f16a485705",
     "93c1f1877719ae06cd3251da47630533568ef8e6c5d9cf9b0ff661c27060622d",
     "3b91d52deff80e4032699bbc4ea91711f02daaf61b61cd8edca75676d7567afe",
-    "0d7dc6dd07a0377af14fd6fe9afbef922065cee3064f73be72b630cc3a5ce1ec"
+    "0d7dc6dd07a0377af14fd6fe9afbef922065cee3064f73be72b630cc3a5ce1ec",
+    "3aba60ee50b742ffcedc9378e96a75b880dba12ad9fbcc1807d90d73430a03e8",
+    "7bd3b47b140a633ad53e4b7680b582aa65cd962e6cd5e5cac1015e4a9704fb4d",
+    "05a7cd6caa532c5300b939c24e74b035a18d30dda5a0aac748c4b199baf8cbd8"
   ],
   "source_baselines": {
     "community_usage": true,
