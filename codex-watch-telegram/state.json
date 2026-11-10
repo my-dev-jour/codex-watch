@@ -3984,7 +3984,9 @@
     "b67082a470e82faaa545ca4d6a49b32a55e7c7076e3f459b64174b6a39693fd3",
     "aa27edd60d5add935bd4382e9d349f9a7df7676b367f6959c0f625aac5553cb8",
     "10326435875196a3cf6a63a04b36e4f2b0f34b79177b2c93727400aa1467dd8c",
-    "955d2312472d127b905b8ccb18c692174b2c012797c58a7ab6667b24e36a71d9"
+    "955d2312472d127b905b8ccb18c692174b2c012797c58a7ab6667b24e36a71d9",
+    "e979e55eff785f30da8298e7dfd8035b7084bed5fd8b88ac43be937bfdaeb115",
+    "a98819797f3c6fa3296a20c0f61c59d976f6419719ccd9eb522aa0ea8a2d2cfd"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -4012,8 +4014,12 @@
       "Instant remains unlimited for current credit-based pricing customers, subject to the guardrails below. GPT-6 Sol powers Medium, High, and Extra High reasoning efforts, each costing 10 credits per message.",
       "GPT-6 Pro is powered by GPT-6 Astra. When billed using credits, GPT-6 Pro costs 50 credits per Chat message, the same rate as GPT-5.6 Sol Pro. Chat usage is metered separately from Astra usage in Work and Codex.",
       "GPT-5.5 Rosalind Discovery and GPT-5.5 Rosalind Research are available only to select Enterprise plans. Read more.",
+      "Pricing for Images in chat varies by image model and request.",
       "For ChatGPT Edu customers, the following usage is included at no additional cost and does not consume credits:",
-      "The 24-hour period begins at the time of first use. For example, if a user generates an image at 10:00 AM, they can generate two additional images until 10:00 AM the following day. Usage beyond these limits consumes credits at the rates listed above.",
+      "Images: An included daily usage budget. The number of generations varies by image model and request. Additional eligible image usage consumes credits where the workspace permits.",
+      "For deep research, the rolling 24-hour period begins at the time of first use. Usage beyond the 5-query allowance consumes credits at the rate listed above.",
+      "For Enterprise workspaces using credit-based pricing, image generation in Chat consumes credits based on the image model used and the billable tokens processed and generated. Credit usage varies by request; there is no fixed credit charge per image.",
+      "This token-based credit usage remains part of credit-based pricing and is separate from Enterprise agreements billed in USD. The image rate depends on the image model used, not just the text model selected in Chat.",
       "ChatGPT Work and Codex usage is priced based on token usage, calculated as credits per 1M input tokens, cached input tokens, and output tokens. The rates below are for Standard mode.",
       "This rate card applies to:",
       "New and existing Enterprise, Edu, Health, Gov, and ChatGPT for Teachers customers whose workspaces use credit-based pricing.",
@@ -4053,7 +4059,7 @@
       "Which rate card should I use?",
       "Use the rates in this article if your workspace uses credit-based flexible pricing. If your Enterprise agreement specifies usage-based billing in U.S. dollars, see: ChatGPT Rate Card (Enterprise token-based pricing) . Your agreement determines your applicable rates. A small subset of Enterprise customers should continue using the legacy Codex rate card until their workspace is migrated. If you are unsure, contact your OpenAI representative or OpenAI Sales .",
       "Some ChatGPT experiences are billed as a fixed number of credits per message, task, generation, or minute. Agentic products and Codex are billed by the input, cached input, and output tokens used, which provides a direct mapping between model activity and credit consumption.",
-      "For example, for ChatGPT Business and credit-based Enterprise or Edu, use the Images row under ChatGPT features for an image generated in Chat. For GPT-Image-2 in Work or Codex, use the input, cached-input and output token rates under ChatGPT Work and Codex .",
+      "For Enterprise workspaces using credit-based pricing, image generation in Chat uses credits based on the image model and billable tokens processed and generated, with no fixed credit charge per image. See Image generation in Chat above. For GPT-Image-2 in Work or Codex, use the image and text input, cached-input and output token rates under ChatGPT Work and Codex .",
       "No. The selected model determines the message rate. GPT-6 Medium, High, and Extra High each cost 10 credits per message. Selecting GPT-5.6 Sol continues to cost 10 credits per message; a higher reasoning effort does not change a given model's per-message rate.",
       "How does token-based pricing affect my credit usage?",
       "The impact depends on your workload mix. Some users may see higher credit consumption and others may see lower consumption depending on input, cached input, and output usage. Output-heavy tasks and fast mode generally consume more credits than lighter tasks."
