@@ -4000,7 +4000,8 @@
     "3aba60ee50b742ffcedc9378e96a75b880dba12ad9fbcc1807d90d73430a03e8",
     "7bd3b47b140a633ad53e4b7680b582aa65cd962e6cd5e5cac1015e4a9704fb4d",
     "05a7cd6caa532c5300b939c24e74b035a18d30dda5a0aac748c4b199baf8cbd8",
-    "cf9816725f0009e5f4e5ca5c32f9fbac20c705d39be9c6e81e41275fa20611da"
+    "cf9816725f0009e5f4e5ca5c32f9fbac20c705d39be9c6e81e41275fa20611da",
+    "20fbf5b76c6f5349c82ee40b28f78c2ef83361b9f6c4338b68bbb2bce1c0ce75"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -4131,7 +4132,7 @@
       "If a task starts while your balance is positive but finishes after concurrent usage depletes it, your balance can go negative. In that case, later credit purchases or automatic reloads may first offset the negative balance before increasing your available credits. Check Settings > Usage in ChatGPT or Usage & Billing in the Codex app for your current balance and recent usage.",
       "If a credit purchase doesn’t match your balance, sign in to the personal account you used to pay. Compare the purchase with your balance and usage for the same period in Settings > Usage in ChatGPT or Usage & Billing in the Codex app. If you still can’t account for the difference, contact Support with the purchase date and receipt reference.",
       "When you’re signed in with a ChatGPT account, auto-review safety checks are free and don’t count toward your plan’s usage limits. Other ChatGPT Work and Codex activity continues to use your included allowance or credits, as applicable.",
-      "For usage rates, see the ChatGPT rate card .",
+      "For ChatGPT Work and Codex, see Token rates in the individual pricing guide. The table shows credits per million input, cached input and output tokens at Standard speed.",
       "These features use token-based pricing at API model rates. Usage depends on the model and the input, cached input, and output tokens used for your task. Rates apply to models supported by each feature.",
       "Rates are shown in credits per 1 million tokens.",
       "In ChatGPT for Word, Free and Go plans use GPT-5.6 Luna. Plus and Pro plans can use the four models listed above, with GPT-5.6 Sol selected by default. Model availability can vary by feature and region.",
