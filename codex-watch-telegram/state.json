@@ -39,7 +39,8 @@
     "0.167.0",
     "0.167.1",
     "0.167.2",
-    "0.168.0"
+    "0.168.0",
+    "0.169.0"
   ],
   "initialized": true,
   "last_run_utc": "2026-08-18T06:17:55.029540+00:00",
@@ -4009,7 +4010,10 @@
     "13aefecf1f5f8c06767e119c51047027c9ce74a077ce62399b3d50011fa7f507",
     "fa66406142440d455650c12d047b97e3eacc3a1d492f778c7c0988a31a376d9d",
     "4358eb3ae4440f8ce0f80b22dc28a0275d03bd4825364a7cf7531b701b29d261",
-    "ec7b4de5b8cf7f34a69ab6da791f382d734987154a82498ea143ca23e87a0d65"
+    "ec7b4de5b8cf7f34a69ab6da791f382d734987154a82498ea143ca23e87a0d65",
+    "c9ca4010da8058bf882614d82cab3422060d07d1b9a253100743b5287c92e09e",
+    "64fc8514372f7a53dbc7eb7988cb71bf622c943246f57b6f3b83d1a4d1c5d767",
+    "200b661fe6904784a9c748835c84e7c8dfb958eb6c8029915a0545f3a524451c"
   ],
   "source_baselines": {
     "community_usage": true,
@@ -4157,7 +4161,7 @@
       "Are credits refundable?",
       "Credits are non-refundable unless required by law or contract, or an approved exception applies. Unused credits may qualify for a refund for a verified billing error, confirmed unauthorized activity, or a confirmed OpenAI service failure or incorrect account restriction. Credits already used can be reviewed only for a verified billing correction or confirmed unauthorized use, subject to applicable law or contract. We may restore credits in cases of confirmed account compromise, as described below. If you believe an exception applies to your credit purchase, contact OpenAI Support for a review.",
       "Do credits expire or roll over?",
-      "Credits are valid for 12 months from purchase. Unused credits expire and do not roll over after the expiry date.",
+      "Credits expire 12 months from purchase. Credits purchased in Japan after November 13, 2026 expire 180 days from purchase. Unused credits do not roll over.",
       "What happens if credits are used due to a compromised account?",
       "If your account is compromised and credits are used without authorization, report the incident immediately using the Unauthorized Activity webform and contact OpenAI Support using the chat bubble in the bottom-right corner of this page. We will investigate the incident, restore lost credits if misuse is confirmed, and assist with password resets and security controls. We also recommend that you take immediate steps to secure the account by following the steps outlined here: How can I report fraud or suspicious activity?",
       "Are credits transferable?",
