@@ -4085,6 +4085,7 @@
       "For Enterprise Codex usage when you sign in with ChatGPT, there is no 272K-input-token pricing threshold and no additional context-length charge. The standard credit rate for the selected Codex model applies regardless of context length. This guidance applies only to the sign-in-with-ChatGPT flow; API-key pricing is separate.",
       "* Access to the Astra for Law model configuration requires approval through Trusted Access . Promotional pricing is available at least through December 31, 2026.",
       "† The GPT-6.2 Astra for Law configuration requires approval through Trusted Access. Standard mode only; Fast and Ultrafast are not available at launch. Promotional pricing is available at least through December 31, 2026.",
+      "* GPT‑6 Rosalind Research promotional pricing is available at least through December 31, 2026.",
       "Daybreak access requires approval through the OpenAI Daybreak/Trusted Access for Cyber program . Daybreak Blue usage with GPT-5.6 Sol uses the GPT-5.6 Sol rates. For standard GPT-6 Astra pricing, use the GPT-6 Astra row above. Model availability and any private-preview terms are separate from these standard rates. Daybreak Red requires separate approval and provisioning.",
       "A typical Codex task using GPT-6.2 Sol may consume between 2 and 15 credits per task.",
       "Fast mode: When using credits, Fast mode is charged at 2× the Standard rate for the same model. Supported models include GPT-6.2 Astra, GPT-6.2 Sol, GPT-6.1 Terra, GPT-6.1 Sol, GPT-6 Astra, GPT-6 Sol, and GPT-6 Luna, where available.",
