@@ -43,7 +43,8 @@
     "0.169.0",
     "0.169.1",
     "0.170.0",
-    "0.171.0"
+    "0.171.0",
+    "0.172.0"
   ],
   "initialized": true,
   "last_run_utc": "2026-08-18T06:17:55.029540+00:00",
@@ -4039,7 +4040,10 @@
     "89f5cbd156422dfe3ebc1d87dc9343e658a2fc3cf41677ed5a81d0470202d8eb",
     "9013481b4fd97146c6a7a27eef42ff7f1f2c9a8d58ee0297c47790f08f6165f5",
     "be9e39d5d7953c1f2d9f8e62d1cd41f8d1c3a26f5caa98f87d99c0602784b7df",
-    "1eab90c2f073df1e981ce0a27ff4d42f22dcf01a0492aabb0f22641d84a8d448"
+    "1eab90c2f073df1e981ce0a27ff4d42f22dcf01a0492aabb0f22641d84a8d448",
+    "0fa6be249358f0eb7cab746bac9c8db90b6dd2e75e388d8646c7ebff3d291701",
+    "35b87a5cbc3b4efec6c05f490faf474c5ebb3fbb963e1111cbc0148e4400f06a",
+    "ba4e849b7f48602972a959d1de40c2ec66b4323f9d9146d8e2234e3590c22804"
   ],
   "source_baselines": {
     "community_usage": true,
